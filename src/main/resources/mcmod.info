@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rc",
+  "name": "Rollercoaster Mod",
+  "description": "Rollercoasters in minecraft. Build the rides of your dreams and then hop on and ride them!",
+  "version": "v1.4",
+  "mcversion": "1.7.10",
+  "url": "http://www.planetminecraft.com/mod/rollercoaster-mod-3041717/",
+  "updateUrl": "",
+  "authorList": ["roboyobo", "modmuss50"],
+  "credits": "All the supporters of our mod!",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
